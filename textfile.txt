@@ -1,0 +1,3 @@
+MOVI R1 8 
+MOVI R2 7
+EOR R1 R2
